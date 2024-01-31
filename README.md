@@ -6,5 +6,7 @@ This GitHub repository focuses on predicting house prices using Python, with a p
 How to Use:
 
 Clone the repository.
+
 Install the necessary Python libraries (Pandas, Matplotlib).
+
 Follow the Jupyter Notebook or Python script to understand the data preprocessing, visualization, and model training steps.
